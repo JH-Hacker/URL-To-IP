@@ -1,9 +1,17 @@
 #!/bin/bash
 
-# created by JH Hacker
+# created by Unknown Person
 # Wevsite IP Finder Tool
 
-source ./banner.sh
+banner(){
+banner "#############################################"
+banner "##                                         ##"
+banner "##                IP Lookup	           ##"
+banner "##                                         ##"
+banner "##        Created by Unknown Person        ##"
+banner "##                                         ##"
+banner "#############################################"
+}
 
 # Main Function Created
 
@@ -22,4 +30,5 @@ done
 
 # Function Called
 
+banner
 main
