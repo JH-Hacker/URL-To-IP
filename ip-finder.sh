@@ -6,7 +6,7 @@
 banner(){
 banner "#############################################"
 banner "##                                         ##"
-banner "##                IP Lookup	           ##"
+banner "##             IP Finder Tool              ##"
 banner "##                                         ##"
 banner "##        Created by Unknown Person        ##"
 banner "##                                         ##"
